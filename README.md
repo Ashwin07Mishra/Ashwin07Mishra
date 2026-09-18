@@ -214,9 +214,7 @@ Hybrid semantic-lexical search engine for government grievance portals.
 
 ### 🎉 **Let's Build Something Amazing Together!**
 
-[![GitHub followers](https://img.shields.io/github/followers/Ashwin07Mishra?style=social)](https://github.com/Ashwin07Mishra)
-[![Twitter Follow](https://img.shields.io/badge/Follow-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com)
 
-**Last Updated:** September 2024
+**Last Updated:** September 2026
 
 </div>
