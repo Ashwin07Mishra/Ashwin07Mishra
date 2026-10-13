@@ -155,17 +155,6 @@ Pipeline for analyzing and organizing evidence documents.
 
 ---
 
-## 🔭 What I'm Working On
-
-- 🤖 Multi-agent orchestration for enterprise AI
-- 🛒 A cross-app price and availability comparison agent for Indian quick-commerce
-- 🎬 Generative AI for ad storyboards and video
-- 📞 Multi-channel AI outreach (email, SMS, WhatsApp, voice)
-- 📊 Advanced RAG with knowledge-graph integration
-- ⚖️ AI for legal tech: document intelligence and compliance
-
----
-
 ## 🤝 Open to Collaboration
 
 💡 Production LLM applications · AI/ML research · open source · mentoring · interesting AI projects
