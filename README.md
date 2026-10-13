@@ -1,71 +1,181 @@
 <div align="center">
 
-# Ashwin Mishra
+# 👋 Hi, I'm Ashwin Mishra
 
-**AI/ML engineer building LLM systems, agentic pipelines and RAG for production**
+### AI/ML Engineer · LLM Systems · Agentic Pipelines · RAG · Computer Vision
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&pause=1200&color=00BFFF&center=true&width=560&lines=LLM+systems+%26+agentic+pipelines;RAG+%26+hybrid+semantic+search;Computer+vision;Shipping+AI+to+government%2C+legal-tech+%26+MarTech)](https://github.com/Ashwin07Mishra)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&pause=1200&color=00BFFF&center=true&width=640&lines=Building+production+AI+at+scale;LLM+systems+%26+agentic+pipelines;RAG+%26+hybrid+semantic+search;Computer+vision+%26+NLP;Government+%C2%B7+Legal-tech+%C2%B7+MarTech)](https://github.com/Ashwin07Mishra)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwin-mishra07)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashwin.mishra07@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://ashwin07mishra.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwin-mishra07)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwin.mishra07@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://ashwin07mishra.github.io)
 
 </div>
 
-## About
+---
 
-- AI intern at **Innocean India**, building ad-campaign generators and autonomous discovery agents.
-- Previously at **IIT Kanpur (CDIS)**: grievance-routing pipelines and hybrid semantic search for government portals.
-- B.Tech CSE (AI & ML), **SRM Institute of Science & Technology**, SGPA 9.24 (2023 to 2027).
-- Currently exploring multi-agent orchestration, RAG with knowledge graphs, generative AI for creative work, and legal-tech document intelligence.
+## 💼 About Me
 
-## Stack
+🚀 AI/ML developer shipping **LLM systems**, **agentic AI pipelines**, **RAG workflows** and **computer vision** into **government**, **legal-tech** and **enterprise MarTech**
+⚡ Currently an AI intern at **Innocean India**, architecting ad-campaign generators and autonomous discovery agents
+🎓 B.Tech in Computer Science (AI & ML), **SRM Institute of Science & Technology**, SGPA **9.24** (2023 to 2027)
+🏛️ Previously at **IIT Kanpur (CDIS)**: grievance-routing pipelines and hybrid semantic search for government portals
 
-| | |
-|---|---|
-| **Languages** | Python, TypeScript, JavaScript, SQL, C++ |
-| **AI/ML** | PyTorch, Transformers, LangChain, FAISS, YOLO, LoRA fine-tuning |
-| **LLMs** | OpenAI, Claude, Gemini, Llama, Groq |
-| **Backend & data** | FastAPI, Elasticsearch, PostgreSQL, Supabase, Redis |
-| **Frontend** | Next.js, React, Tailwind CSS |
-| **Infra** | Docker, AWS, GCP, Vercel, Railway, Render, Git |
+---
 
-## Projects
+## 💻 Tech Stack
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**AdINNtelligence**](https://github.com/Ashwin07Mishra/AdINNtelligence) | Competitive ad intelligence for car dealerships. Scans 40+ brands' Meta ads, detects patterns with an LLM, and returns 3 evidence-backed recommendations for the next campaign. | FastAPI, Next.js, Supabase, Redis, Groq |
-| [**ScoutINNtelligence**](https://github.com/Ashwin07Mishra/ScoutINNtelligence) | Dual-intelligence lead generation. Supply Scan ranks startups by fit; Demand Scan qualifies buyers on MarTech need, buying capacity and actionability. | Python, LLMs |
-| [**Law Simplified**](https://github.com/Ashwin07Mishra/Law-Simplified) | Legal document analysis: OCR, clause and party extraction, RAG search, and plain-language summaries. | OCR, NLP, vector search |
-| [**ES-RAG Grievance Retrieval**](https://github.com/Ashwin07Mishra/ElasticSearch-Rag) | Hybrid lexical and vector search for grievance portals with LLM re-ranking. | Elasticsearch, LLMs |
-| [**Evidence Analysis**](https://github.com/Ashwin07Mishra/Evidence-Analysis) | Evidence analysis pipeline. | Python |
+### 🐍 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<details>
-<summary>Outcomes</summary>
+### 🤖 AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFCE00?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3144?style=for-the-badge&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-Semantic_Search-blue?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-Computer_Vision-green?style=for-the-badge)
 
-- Law Simplified: 98%+ OCR accuracy, 60% better case-review efficiency.
-- ES-RAG: 50% less manual filtering time.
-- IIT Kanpur search: 45% faster case resolution, 95%+ relevance.
-- Drone classification: 96.6% accuracy.
+### 🧠 LLMs & APIs
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-Meta-purple?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 
-</details>
+### 🔧 Backend & Data
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## Experience
+### 🎨 Frontend & Deployment
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-**AI Intern, Innocean India Worldwide Communication** · Gurgaon · Jul 2026 to present
-- Agentic ad-campaign generator for Hyundai, using identity-lock prompting (30% fewer hallucinations).
-- Visualizer agent for Kajaria: 2D-to-3D tile visualization across 60+ SKUs.
-- MarTech discovery agent with weighted-rubric scoring and real-time validation.
+### ☁️ Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**AI/ML Developer Intern, CDIS, IIT Kanpur** · May 2025 to Feb 2026
-- Pipelines for complaint summarization, classification and semantic routing (60% less manual review).
-- Hybrid Elasticsearch plus LLM re-ranking for precedent discovery.
-- End-to-end NLP/LLM orchestration, design through deployment.
+---
 
-**AI/ML Intern, IIT Kanpur** · Dec 2024 to Jan 2025
-- Radar-based drone classification from multi-frequency RCS data with cubic-spline interpolation (96.6% accuracy).
+## 🚀 Featured Projects
 
-## Collaboration
+### 🎯 [AdINNtelligence](https://github.com/Ashwin07Mishra/AdINNtelligence): Competitive Ad Intelligence
+Agentic platform that helps automotive marketing teams scout competitor advertising and spot campaign trends.
 
-Open to production LLM applications, AI/ML research, open source and mentoring.
-Reach me at [ashwin.mishra07@gmail.com](mailto:ashwin.mishra07@gmail.com).
+- 📱 **Supply Scan:** discovers and analyzes competitor Meta ads across 40+ brands
+- 🎬 **Pattern detection:** LLM-powered competitive pattern analysis
+- 💬 **Advisory:** 3 evidence-backed recommendations for the next campaign
+- 🏗️ **Stack:** FastAPI, Next.js, Supabase, Redis, Groq
+
+### 🔭 [ScoutINNtelligence](https://github.com/Ashwin07Mishra/ScoutINNtelligence): Dual-Intelligence Lead Generation
+Finds and qualifies MarTech leads from both sides of the market.
+
+- 🧭 **Supply Scan:** ranks startups by fit
+- 🎯 **Demand Scan:** qualifies buyers with a 3-filter check (MarTech need, buying capacity, actionability)
+
+### ⚖️ [Law Simplified](https://github.com/Ashwin07Mishra/Law-Simplified): Legal Document Intelligence
+AI-powered legal document analysis with an interactive interface.
+
+- 📄 **OCR & NLP:** legal PDF parsing with 98%+ accuracy
+- 🔍 **Entity recognition:** automatic clause and party extraction
+- 📚 **RAG pipeline:** vector embeddings with contextual semantic search
+- 💡 **Summaries:** plain-language explanations of complex documents
+- 📈 **Impact:** 60% improvement in case-review efficiency
+
+### 🔎 [ES-RAG Grievance Retrieval](https://github.com/Ashwin07Mishra/ElasticSearch-Rag)
+Hybrid semantic and lexical search for government grievance portals.
+
+- 🔗 **Elasticsearch + vector search:** dual-mode retrieval
+- 🤖 **LLM re-ranking:** contextual relevance scoring
+- 📈 **Impact:** 50% reduction in manual filtering time
+
+### 🧾 [Evidence Analysis](https://github.com/Ashwin07Mishra/Evidence-Analysis)
+Pipeline for analyzing and organizing evidence documents.
+
+---
+
+## 🏢 Work Experience
+
+### 🎨 AI Intern · Innocean India Worldwide Communication Pvt Ltd
+*Jul 2026 to present · Gurgaon, India*
+
+- **Agentic ad-campaign generator** for Hyundai: LLM-driven concept generation with identity-lock prompt engineering (30% fewer hallucinations)
+- **Visualizer agent** for Kajaria: 2D-to-3D tile visualization with 60+ SKU customization
+- **MarTech discovery agent:** weighted-rubric scoring across India's startup ecosystem with real-time validation
+
+### 🏛️ AI/ML Developer Intern · CDIS, IIT Kanpur
+*May 2025 to Feb 2026 · Kanpur, India*
+
+- **Grievance platform pipelines:** automated summarization, classification and semantic routing (60% less manual review)
+- **Hybrid semantic search:** Elasticsearch plus LLM re-ranking for precedent discovery (45% faster case resolution, 95%+ relevance)
+- **NLP/LLM orchestration:** end-to-end pipeline design and deployment
+
+### 🔬 AI/ML Intern · IIT Kanpur
+*Dec 2024 to Jan 2025 · Kanpur, India*
+
+- **Radar-based drone classification:** multi-frequency RCS measurements with cubic-spline interpolation
+- **Accuracy:** 96.6% on drone-type prediction across phi-theta angles
+
+---
+
+## 🎓 Education
+
+**SRM Institute of Science and Technology**: B.Tech in Computer Science (AI & ML), SGPA **9.24**
+*2023 to 2027 · Delhi NCR* · Coursework: Machine Learning, Deep Learning, NLP, Computer Vision, DSA
+
+**Delhi Public School, Dwarka**: Senior Secondary · *2009 to 2023 · New Delhi*
+
+---
+
+## 🏆 Key Competencies
+
+| Domain | Expertise |
+|--------|-----------|
+| **LLM systems** | Prompt engineering, fine-tuning, LoRA, inference optimization |
+| **Agentic AI** | Multi-agent systems, orchestration, autonomous pipelines, tool use / MCP |
+| **RAG** | Semantic search, vector embeddings, hybrid retrieval, re-ranking |
+| **NLP & CV** | Entity recognition, document understanding, image processing |
+| **Backend** | FastAPI, async patterns, microservices, API design |
+| **Frontend** | React, Next.js, real-time UI, data visualization |
+| **DevOps** | Docker, deployment automation, CI/CD |
+| **Data** | Elasticsearch, FAISS, PostgreSQL, Redis |
+
+---
+
+## 🔭 What I'm Working On
+
+- 🤖 Multi-agent orchestration for enterprise AI
+- 🛒 A cross-app price and availability comparison agent for Indian quick-commerce
+- 🎬 Generative AI for ad storyboards and video
+- 📞 Multi-channel AI outreach (email, SMS, WhatsApp, voice)
+- 📊 Advanced RAG with knowledge-graph integration
+- ⚖️ AI for legal tech: document intelligence and compliance
+
+---
+
+## 🤝 Open to Collaboration
+
+💡 Production LLM applications · AI/ML research · open source · mentoring · interesting AI projects
+
+📧 **[ashwin.mishra07@gmail.com](mailto:ashwin.mishra07@gmail.com)**
+
+---
+
+<div align="center">
+
+### 🎉 Let's build something amazing together
+
+</div>
