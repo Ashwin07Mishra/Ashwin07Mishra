@@ -75,7 +75,7 @@
 ### 🎯 [AdINNtelligence](https://github.com/Ashwin07Mishra/AdINNtelligence): Competitive Ad Intelligence
 Agentic platform that helps automotive marketing teams scout competitor advertising and spot campaign trends.
 
-- 📱 **Supply Scan:** discovers and analyzes competitor Meta ads across 40+ brands
+- 📱 **Supply Scan:** discovers and analyzes competitor Meta ads from rival dealerships
 - 🎬 **Pattern detection:** LLM-powered competitive pattern analysis
 - 💬 **Advisory:** 3 evidence-backed recommendations for the next campaign
 - 🏗️ **Stack:** FastAPI, Next.js, Supabase, Redis, Groq
@@ -114,9 +114,9 @@ Pipeline for analyzing and organizing evidence documents.
 | [**AdINNtelligence**](https://github.com/Ashwin07Mishra/AdINNtelligence) | Scans competitor dealerships' Meta ads from the last 24 hours and returns 3 evidence-cited next-ad recommendations |
 | [**ScoutINNtelligence**](https://github.com/Ashwin07Mishra/ScoutINNtelligence) | Lead generation: ranks startups by fit and qualifies buyers on need, capacity and actionability |
 | **AdGEN** | Hyundai ad generator: script and product shots to a storyboard and a video |
-| **Kajaria Visualizer** | 2D-to-3D tile visualization with AI room analysis, 60+ SKUs and lead capture |
 | **Chroma Forge** | Recolours cars in ad images across paint colours and finishes |
 | **Dealer Outreach CRM** | AI email, SMS, WhatsApp and voice follow-up with inactive dealers |
+| **Kajaria Visualizer** | 2D-to-3D tile visualization with AI room analysis, 60+ SKUs and lead capture |
 
 ---
 
