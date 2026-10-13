@@ -107,6 +107,19 @@ Pipeline for analyzing and organizing evidence documents.
 
 ---
 
+### 🏭 Products built at Innocean India
+
+| Product | What it does |
+|---|---|
+| [**AdINNtelligence**](https://github.com/Ashwin07Mishra/AdINNtelligence) | Scans competitor dealerships' Meta ads from the last 24 hours and returns 3 evidence-cited next-ad recommendations |
+| [**ScoutINNtelligence**](https://github.com/Ashwin07Mishra/ScoutINNtelligence) | Lead generation: ranks startups by fit and qualifies buyers on need, capacity and actionability |
+| **AdGEN** | Hyundai ad generator: script and product shots to a storyboard and a video |
+| **Kajaria Visualizer** | 2D-to-3D tile visualization with AI room analysis, 60+ SKUs and lead capture |
+| **Chroma Forge** | Recolours cars in ad images across paint colours and finishes |
+| **Dealer Outreach CRM** | AI email, SMS, WhatsApp and voice follow-up with inactive dealers |
+
+---
+
 ## 🏢 Work Experience
 
 ### 🎨 AI Intern · Innocean India Worldwide Communication Pvt Ltd
