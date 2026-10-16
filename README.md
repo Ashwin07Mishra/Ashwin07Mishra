@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwin-mishra07)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwin.mishra07@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://ashwin07mishra.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://ashwin07mishra.me)
 
 </div>
 
@@ -133,7 +133,7 @@ Upload a room photo and see tiles rendered on your own floor.
 | [**AdGEN**](https://github.com/Ashwin07Mishra/adgen-studio) | Hyundai ad generator: script and product shots to a storyboard and a video |
 | **Chroma Forge** | Recolours cars in ad images across paint colours and finishes |
 | **Dealer Outreach CRM** | AI email, SMS, WhatsApp and voice follow-up with inactive dealers |
-| [**Kajaria Visualizer**](https://github.com/Ashwin07Mishra/Kajaria-AiStudio) | 2D-to-3D tile visualization with AI room analysis, 60+ SKUs and lead capture |
+| [**Kajaria Visualizer**](https://github.com/Ashwin07Mishra/Kajaria-AiStudio) | 2D-to-3D tile visualization with AI room analysis, 40+ SKUs and lead capture |
 
 ---
 
@@ -143,7 +143,7 @@ Upload a room photo and see tiles rendered on your own floor.
 *Jul 2026 to present · Gurgaon, India*
 
 - **Agentic ad-campaign generator** for Hyundai: LLM-driven concept generation with identity-lock prompt engineering (30% fewer hallucinations)
-- **Visualizer agent** for Kajaria: 2D-to-3D tile visualization with 60+ SKU customization
+- **Visualizer agent** for Kajaria: 2D-to-3D tile visualization with 40+ SKU customization
 - **MarTech discovery agent:** weighted-rubric scoring across India's startup ecosystem with real-time validation
 
 ### 🏛️ AI/ML Developer Intern · CDIS, IIT Kanpur
