@@ -131,8 +131,8 @@ Upload a room photo and see tiles rendered on your own floor.
 | [**ScoutINNtelligence**](https://github.com/Ashwin07Mishra/ScoutINNtelligence) | Lead generation: ranks startups by fit and qualifies buyers on need, capacity and actionability |
 | [**Coral**](https://github.com/Ashwin07Mishra/Coral-AiStudio) | Creative Intelligence Engine: brief to concepts to rendered, brand-safe Hyundai ad creatives with a Brand and Dealer approval flow |
 | [**AdGEN**](https://github.com/Ashwin07Mishra/adgen-studio) | Hyundai ad generator: script and product shots to a storyboard and a video |
-| **Chroma Forge** | Recolours cars in ad images across paint colours and finishes |
-| **Dealer Outreach CRM** | AI email, SMS, WhatsApp and voice follow-up with inactive dealers |
+| **Chroma Forge** | Recolours the car creatives for ad images across multi colours and generates updated creatives |
+| **Dealer Outreach CRM** | An Automated CRM outreach using AI email, WhatsApp and automated-voice follow-up with inactive dealers |
 | [**Kajaria Visualizer**](https://github.com/Ashwin07Mishra/Kajaria-AiStudio) | 2D-to-3D tile visualization with AI room analysis, 40+ SKUs and lead capture |
 
 ---
