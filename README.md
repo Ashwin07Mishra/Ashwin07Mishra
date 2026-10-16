@@ -79,12 +79,21 @@ Agentic platform that helps automotive marketing teams scout competitor advertis
 - 🎬 **Pattern detection:** LLM-powered competitive pattern analysis
 - 💬 **Advisory:** 3 evidence-backed recommendations for the next campaign
 - 🏗️ **Stack:** FastAPI, Next.js, Supabase, Redis, Groq
+- 🔗 **More:** [Sonar overview](https://github.com/Ashwin07Mishra/Sonar-AiStudio)
 
 ### 🔭 [ScoutINNtelligence](https://github.com/Ashwin07Mishra/ScoutINNtelligence): Dual-Intelligence Lead Generation
 Finds and qualifies MarTech leads from both sides of the market.
 
 - 🧭 **Supply Scan:** ranks startups by fit
 - 🎯 **Demand Scan:** qualifies buyers with a 3-filter check (MarTech need, buying capacity, actionability)
+
+### 🪸 [Coral](https://github.com/Ashwin07Mishra/Coral-AiStudio): Creative Intelligence Engine
+AI-generated, brand-safe ad creatives for Hyundai, built at Innocean India.
+
+- 🧠 **Concepts:** Claude turns a brief into 5 concept directions with image prompts and copy
+- 🖼️ **Rendering:** low-res drafts first, high-res only on approval
+- 👥 **Workflow:** Admin, Brand and Dealer dashboards
+- 🏗️ **Stack:** Next.js 15, Express, BullMQ, PostgreSQL, AWS
 
 ### ⚖️ [Law Simplified](https://github.com/Ashwin07Mishra/Law-Simplified): Legal Document Intelligence
 AI-powered legal document analysis with an interactive interface.
@@ -105,6 +114,13 @@ Hybrid semantic and lexical search for government grievance portals.
 ### 🧾 [Evidence Analysis](https://github.com/Ashwin07Mishra/Evidence-Analysis)
 Pipeline for analyzing and organizing evidence documents.
 
+### 🧱 [Kajaria Visualizer](https://github.com/Ashwin07Mishra/Kajaria-AiStudio): AI Tile Visualization
+Upload a room photo and see tiles rendered on your own floor.
+
+- 🤖 **Auto Visualize:** Claude vision reads the room, picks a tile and renders it
+- 🛠️ **Modes:** Photo Studio, 3D Planner and Projection preview
+- 🏗️ **Stack:** Flask, React, Three.js, fal.ai
+
 ---
 
 ### 🏭 Products built at Innocean India
@@ -113,10 +129,11 @@ Pipeline for analyzing and organizing evidence documents.
 |---|---|
 | [**AdINNtelligence**](https://github.com/Ashwin07Mishra/AdINNtelligence) | Scans competitor dealerships' Meta ads from the last 24 hours and returns 3 evidence-cited next-ad recommendations |
 | [**ScoutINNtelligence**](https://github.com/Ashwin07Mishra/ScoutINNtelligence) | Lead generation: ranks startups by fit and qualifies buyers on need, capacity and actionability |
-| **AdGEN** | Hyundai ad generator: script and product shots to a storyboard and a video |
+| [**Coral**](https://github.com/Ashwin07Mishra/Coral-AiStudio) | Creative Intelligence Engine: brief to concepts to rendered, brand-safe Hyundai ad creatives with a Brand and Dealer approval flow |
+| [**AdGEN**](https://github.com/Ashwin07Mishra/adgen-studio) | Hyundai ad generator: script and product shots to a storyboard and a video |
 | **Chroma Forge** | Recolours cars in ad images across paint colours and finishes |
 | **Dealer Outreach CRM** | AI email, SMS, WhatsApp and voice follow-up with inactive dealers |
-| **Kajaria Visualizer** | 2D-to-3D tile visualization with AI room analysis, 60+ SKUs and lead capture |
+| [**Kajaria Visualizer**](https://github.com/Ashwin07Mishra/Kajaria-AiStudio) | 2D-to-3D tile visualization with AI room analysis, 60+ SKUs and lead capture |
 
 ---
 
